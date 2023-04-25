@@ -1,0 +1,1 @@
+import{_ as o,o as a,c as t,V as e}from"./chunks/framework.113ddbb1.js";const k=JSON.parse('{"title":"子程序 - 全局","description":"","frontmatter":{},"headers":[],"relativePath":"pages/api/apie/overall.md"}'),r={name:"pages/api/apie/overall.md"},l=e("",99),n=[l];function h(c,i,s,b,u,q){return a(),t("div",null,n)}const p=o(r,[["render",h]]);export{k as __pageData,p as default};

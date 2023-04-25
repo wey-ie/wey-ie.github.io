@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as a,V as t}from"./chunks/framework.113ddbb1.js";const q=JSON.parse('{"title":"库API - 全局","description":"","frontmatter":{},"headers":[],"relativePath":"pages/api/apia/overall.md"}'),r={name:"pages/api/apia/overall.md"},l=t("",31),s=[l];function n(i,h,u,c,d,_){return e(),a("div",null,s)}const p=o(r,[["render",n]]);export{q as __pageData,p as default};

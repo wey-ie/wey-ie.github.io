@@ -1,0 +1,1 @@
+import{_ as e,o,c as a,V as t}from"./chunks/framework.113ddbb1.js";const d=JSON.parse('{"title":"库API - 其它 - 菜单","description":"","frontmatter":{},"headers":[],"relativePath":"pages/api/apia/other/menu.md"}'),n={name:"pages/api/apia/other/menu.md"},r=t("",9),u=[r];function s(i,c,l,p,h,_){return o(),a("div",null,u)}const b=e(n,[["render",s]]);export{d as __pageData,b as default};

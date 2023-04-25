@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as a,V as t}from"./chunks/framework.113ddbb1.js";const q=JSON.parse('{"title":"库API - 窗口","description":"","frontmatter":{},"headers":[],"relativePath":"pages/api/apia/wnd.md"}'),r={name:"pages/api/apia/wnd.md"},n=t("",17),i=[n];function l(s,d,c,h,u,b){return e(),a("div",null,i)}const g=o(r,[["render",l]]);export{q as __pageData,g as default};

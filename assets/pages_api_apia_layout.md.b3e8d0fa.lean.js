@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,V as e}from"./chunks/framework.113ddbb1.js";const b=JSON.parse('{"title":"库API - 布局","description":"","frontmatter":{},"headers":[],"relativePath":"pages/api/apia/layout.md"}'),l={name:"pages/api/apia/layout.md"},r=e("",21),u=[r];function i(d,s,n,c,h,p){return t(),a("div",null,u)}const y=o(l,[["render",i]]);export{b as __pageData,y as default};
